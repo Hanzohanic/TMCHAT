@@ -1,0 +1,13 @@
+# Ignore Node.js modules
+node_modules/
+
+# Ignore log files and temp files
+*.log
+*.temp
+
+# Ignore local environment files
+.env
+
+# Ignore cache and lock files
+*.lock
+*.cache
